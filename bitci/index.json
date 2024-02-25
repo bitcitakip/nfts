@@ -318,6 +318,14 @@
       "logoURI": "https://cdn.jsdelivr.net/gh/bitciteam/cdn@latest/assets/coins/svg/VTRA.svg",
       "address": "0x02b8efdffe96218a1fe5d3a815db3d3ee292498a",
       "decimals": 18
+    },
+        {
+      "chainId": 1907,
+      "name": "Global Fan Token",
+      "symbol": "GLFT",
+      "logoURI": "https://dapi.bitcitech.com/assets/046e34ce-59f8-44bf-bf85-1e9fd81d8c9d",
+      "address": "0x74Fc789F81B1489e309eA38C0e3aECff60688c60",
+      "decimals": 18
     }
   ]
 }
